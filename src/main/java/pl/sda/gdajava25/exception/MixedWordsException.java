@@ -1,4 +1,4 @@
-package pl.sda.gdajava25.scanner;
+package pl.sda.gdajava25.exception;
 
 public class MixedWordsException extends Exception {
 

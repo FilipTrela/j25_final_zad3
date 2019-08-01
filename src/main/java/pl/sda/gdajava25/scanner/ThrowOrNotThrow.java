@@ -1,5 +1,7 @@
 package pl.sda.gdajava25.scanner;
 
+import pl.sda.gdajava25.exception.MixedWordsException;
+
 import java.util.Scanner;
 
 public class ThrowOrNotThrow {
